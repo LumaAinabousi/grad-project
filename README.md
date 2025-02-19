@@ -99,4 +99,7 @@ const API_URL = "http://yourpublicIP:8000/patient/profile/";
 You will need to replace ***yourpublicIP*** with the actual public IP address of your backend server (for example, the public IP of your AWS EC2 instance or any other platform you're hosting your backend on).  
   
 Once the IP address is updated, the frontend should be able to communicate with the backend and retrieve the necessary data.
+-----------------------------------------------------------------------------------------------------------
 
+# Disclaimer
+This project was made by **Luma Ainabousi** and **Sara Bustami (https://github.com/swb247)** as a group project.
