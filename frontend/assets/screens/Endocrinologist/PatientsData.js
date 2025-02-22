@@ -1,0 +1,68 @@
+const patientsData = [
+  {
+    id: "1",
+    firstName: "Musa",
+    lastName: "Mohammad",
+    age: 45,
+    diabetesType: "Type 2",
+    phone: "0781234567",
+  },
+  {
+    id: "2",
+    firstName: "Sarah",
+    lastName: "Wael",
+    age: 34,
+    diabetesType: "Type 1",
+    phone: "0792345678",
+  },
+  {
+    id: "3",
+    firstName: "Muna",
+    lastName: "Ahmad",
+    age: 29,
+    diabetesType: "Type 2",
+    phone: "0773456789",
+  },
+  {
+    id: "4",
+    firstName: "Aisha",
+    lastName: "Murad",
+    age: 52,
+    diabetesType: "Type 1",
+    phone: "0784567890",
+  },
+  {
+    id: "5",
+    firstName: "Lama",
+    lastName: "Musa",
+    age: 40,
+    diabetesType: "Type 1",
+    phone: "0795678901",
+  },
+  {
+    id: "6",
+    firstName: "Shahed",
+    lastName: "Kamal",
+    age: 37,
+    diabetesType: "Type 2",
+    phone: "0796789012",
+  },
+  {
+    id: "7",
+    firstName: "Faisal",
+    lastName: "Hassan",
+    age: 42,
+    diabetesType: "Type 1",
+    phone: "0787890123",
+  },
+  {
+    id: "8",
+    firstName: "Ali",
+    lastName: "Rashid",
+    age: 36,
+    diabetesType: "Type 2",
+    phone: "0798901234",
+  },
+];
+
+export default patientsData;

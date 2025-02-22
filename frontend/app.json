@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Sugarak",
+    "slug": "frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Logo.png",
+    "newArchEnabled": true,
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sb247.frontend"
+    },
+    "splash": {
+      "image": "./assets/images/Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#C2E0F5"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4f4920dd-fce3-4afe-bee8-094b8fc4ef2e"
+      }
+    }
+  }
+}
